@@ -4,3 +4,4 @@ git status (shows status of repo)
 git commit -m <comment>(commits to repo)
 git show <num> (shows commit information)
 git remote (-v shows remotes) (add <name> <repo>)
+some stuff
