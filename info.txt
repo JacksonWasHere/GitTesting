@@ -1,0 +1,2 @@
+git log (has no commits initially)
+git add <file/directory>
